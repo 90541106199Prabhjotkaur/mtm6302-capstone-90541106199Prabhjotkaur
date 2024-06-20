@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NASA APOD Viewer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>NASA Astronomy Picture of the Day</h1>
+        <form id="date-form">
+            <label for="date">Enter a Date (YYYY-MM-DD):</label>
+            <input type="date" id="date" name="date" max="" required>
+            <button type="submit">Get Picture</button>
+        </form>
+        <div id="apod-container">
+            <!-- APOD content will be displayed here -->
+        </div>
+        <h2>Favourite Images</h2>
+        <div id="favorites-container">
+            <!-- Favourite images will be displayed here -->
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
