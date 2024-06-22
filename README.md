@@ -8,6 +8,7 @@ STEP: - 1 Screenshot of Code of INDEX.html
 
 ![Screenshot (251)](https://github.com/90541106199Prabhjotkaur/mtm6302-capstone-90541106199Prabhjotkaur/assets/133902578/a1d6530a-e21c-4958-a3d0-9f6caa03ad43)
 
+
 STEP2: - Screenshot of Code of style.css
 
 ![Screenshot (253)](https://github.com/90541106199Prabhjotkaur/mtm6302-capstone-90541106199Prabhjotkaur/assets/133902578/510f83a6-e6ce-4f5e-bd3e-1486844c5b04)
