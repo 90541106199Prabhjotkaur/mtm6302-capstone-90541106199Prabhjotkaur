@@ -1,7 +1,7 @@
 # mtm6302-capstone-90541106199Prabhjotkaur
 # Name: Prabhjot Kaur
 # Student: 90541106199
-# Project: Pokedex Web Application
+# Project: Astronomey Web Application
 
 STEP: - 1 Screenshot of part 1
 
