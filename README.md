@@ -46,7 +46,7 @@ CONTACT US
 ![Screenshot (274)](https://github.com/user-attachments/assets/ae9625fb-3b77-4982-8c40-a8554cf3d1da)
 
 ABOUT US
-![Screenshot (275)](https://github.com/user-attachments/assets/b88e7019-cd8e-42da-addc-5d01b8a6b58e)
+![Screenshot (293)](https://github.com/user-attachments/assets/329967b2-71c7-42cd-ac51-37b294008cd8)
 
 
 
