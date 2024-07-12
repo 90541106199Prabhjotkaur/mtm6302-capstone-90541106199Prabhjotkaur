@@ -1,10 +1,9 @@
 # mtm6302-capstone-90541106199Prabhjotkaur
 # Name: Prabhjot Kaur
 # Student: 90541106199
-# Project: Pokedex Web Application
+# Project: Astronomy  Application
 
-STEP: - 1 Screenshot of part 1
+STEP: - 1 Screenshots of coding of index.html
 
-![Screenshot (255)](https://github.com/90541106199Prabhjotkaur/mtm6302-capstone-90541106199Prabhjotkaur/assets/133902578/60bc10af-d842-49a7-823b-22fd1cd5ca19)
-
+C:\Users\prabh\OneDrive\Pictures\Screenshots\Screenshot (276).png
 
