@@ -1,13 +1,8 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
     margin: 0;
     padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    min-height: 100vh;
+    background-color: #f0f0f0;
 }
 
 header {
@@ -15,7 +10,6 @@ header {
     color: #3b4cca;
     padding: 10px 20px;
     text-align: center;
-    width: 100%;
 }
 
 header .logo {
@@ -55,67 +49,24 @@ nav {
 main {
     padding: 20px;
     text-align: center;
-    width: 100%;
 }
 
-.container {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    width: 90%;
-    max-width: 800px;
-}
-
-h1, h2 {
-    text-align: center;
-}
-
-form {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-form input, form button {
-    margin: 10px 0;
-    padding: 10px;
-    font-size: 16px;
-}
-
-#apod-container, #favorites-container {
+.button-container {
     margin-top: 20px;
 }
 
-.apod-item, .favorite-item {
-    margin-bottom: 20px;
-    text-align: center;
-}
-
-.apod-item img, .favorite-item img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-    cursor: pointer;
-}
-
-button, .project-window {
-    background-color: #007BFF;
-    color: #fff;
-    border: none;
-    border-radius: 4px;
-    padding: 10px 20px;
-    cursor: pointer;
-    margin: 0 10px;
-}
-
-button:hover, .project-window:hover {
-    background-color: #0056b3;
-}
-
 .project-window {
+    padding: 10px 20px;
     background-color: #3b4cca;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
     margin: 0 10px;
+}
+
+.project-window:hover {
+    background-color: #2a2a2a;
 }
 
 footer {
