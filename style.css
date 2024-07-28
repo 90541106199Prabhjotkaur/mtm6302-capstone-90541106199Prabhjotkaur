@@ -10,6 +10,54 @@ body {
     min-height: 100vh;
 }
 
+header {
+    background-color: #ffcb05;
+    color: #3b4cca;
+    padding: 10px 20px;
+    text-align: center;
+    width: 100%;
+}
+
+header .logo {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+.nav-links {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.nav-links li {
+    display: inline;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #3b4cca;
+    font-weight: bold;
+    padding: 5px 10px;
+}
+
+.nav-links a:hover {
+    color: #ffcb05;
+    background-color: #3b4cca;
+    border-radius: 5px;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+}
+
 .container {
     background-color: #fff;
     padding: 20px;
@@ -51,6 +99,24 @@ form input, form button {
     cursor: pointer;
 }
 
+.button-container {
+    margin-top: 20px;
+}
+
+.project-window {
+    padding: 10px 20px;
+    background-color: #3b4cca;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0 10px;
+}
+
+.project-window:hover {
+    background-color: #2a2a2a;
+}
+
 button {
     background-color: #007BFF;
     color: #fff;
@@ -62,4 +128,14 @@ button {
 
 button:hover {
     background-color: #0056b3;
+}
+
+footer {
+    background-color: #ffcb05;
+    color: #3b4cca;
+    padding: 10px 20px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
