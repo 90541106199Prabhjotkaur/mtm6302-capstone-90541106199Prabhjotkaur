@@ -3,25 +3,45 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NASA APOD Viewer</title>
+    <title>Project Page</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="container">
-        <h1>NASA Astronomy Picture of the Day</h1>
-        <form id="date-form">
-            <label for="date">Enter a Date (YYYY-MM-DD):</label>
-            <input type="date" id="date" name="date" max="" required>
-            <button type="submit">Get Picture</button>
-        </form>
-        <div id="apod-container">
-            <!-- APOD content will be displayed here -->
+    <header>
+        <div class="logo">Logo</div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="About.html">Home</a></li>
+                <li><a href="https://90541106199prabhjotkaur.github.io/mtm6302-capstone-90541106199Prabhjotkaur/">Astronomy</a></li>
+                <li><a href="pokedex.html">Pokedex</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="container">
+            <h1>NASA Astronomy Picture of the Day</h1>
+            <form id="date-form">
+                <label for="date">Enter a Date (YYYY-MM-DD):</label>
+                <input type="date" id="date" name="date" max="" required>
+                <button type="submit">Get Picture</button>
+            </form>
+            <div id="apod-container">
+                <!-- APOD content will be displayed here -->
+            </div>
+            <h2>Favourite Images</h2>
+            <div id="favorites-container">
+                <!-- Favourite images will be displayed here -->
+            </div>
         </div>
-        <h2>Favourite Images</h2>
-        <div id="favorites-container">
-            <!-- Favourite images will be displayed here -->
-        </div>
-    </div>
+    </main>
+    <footer>
+        <p>&copy; 2024 Prabhjot Kaur. All rights reserved.</p>
+        <p>Email: prabhjot@example.com | Phone: +91-123-456-7890</p>
+        <p>
+            <a href="https://www.linkedin.com/in/prabhjot-kaur" target="_blank">LinkedIn</a> | 
+            <a href="https://github.com/your-github-username" target="_blank">GitHub</a>
+        </p>
+    </footer>
     <script src="script.js"></script>
 </body>
 </html>
